@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/dukesx/Practice-commits/compare/v1.0.0...v1.1.0) (2021-10-09)
+
+
+### Features
+
+* :sparkles: improvements ([b6b8a72](https://www.github.com/dukesx/Practice-commits/commit/b6b8a7282092e5eb577c65807c2ef66a8293c7c9))
+
+
+### Bug Fixes
+
+* :bug: Fixes that issue ([5563a8e](https://www.github.com/dukesx/Practice-commits/commit/5563a8e84af7c8a7029e6d3df03739a075c3c353))
+
 ## 1.0.0 (2021-10-09)
 
 
