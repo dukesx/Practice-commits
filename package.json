@@ -1,6 +1,6 @@
 {
   "name": "practice-commits",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "description": "This fixes an issue",
   "main": "index.js",
   "scripts": {
