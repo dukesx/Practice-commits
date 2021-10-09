@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dukesx/Practice-commits/issues"
   },
-  "homepage": "https://github.com/dukesx/Practice-commits#readme"
+  "homepage": "https://github.com/dukesx/Practice-commits#readme",
+  "devDependencies": {
+    "auto": "^10.32.1"
+  }
 }
