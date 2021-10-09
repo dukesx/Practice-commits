@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/dukesx/Practice-commits/compare/v1.3.0...v1.4.0) (2021-10-09)
+
+
+### Features
+
+* :sparkles: added auto ([1353e35](https://www.github.com/dukesx/Practice-commits/commit/1353e35093536f0c0104e064b45e61c9fc56c937))
+
 ## [1.3.0](https://www.github.com/dukesx/Practice-commits/compare/v1.2.0...v1.3.0) (2021-10-09)
 
 
