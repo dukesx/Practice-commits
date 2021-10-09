@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/dukesx/Practice-commits/compare/v1.2.0...v1.3.0) (2021-10-09)
+
+
+### Features
+
+* feat:  ([731d910](https://www.github.com/dukesx/Practice-commits/commit/731d910c81b108f94e1a9c1bd52b4d95e3cb30eb))
+
+
+### Bug Fixes
+
+* :bug: fixes [#14](https://www.github.com/dukesx/Practice-commits/issues/14) that caused errors ([618df25](https://www.github.com/dukesx/Practice-commits/commit/618df25284d03473eeea22e4bd23519474e0a632))
+
 ## [1.2.0](https://www.github.com/dukesx/Practice-commits/compare/v1.1.0...v1.2.0) (2021-10-09)
 
 
