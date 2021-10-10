@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.4.1](https://www.github.com/dukesx/Practice-commits/compare/v1.4.0...v1.4.1) (2021-10-10)
+
+
+### Bug Fixes
+
+* **app:** :ambulance: Fixes an issue with class instantiation ([5b65e20](https://www.github.com/dukesx/Practice-commits/commit/5b65e20d8dfc5110804698c9deb21d902d50a59b))
+* **app:** :bug: a bug causing crash with smaller strings now fixed ([604a779](https://www.github.com/dukesx/Practice-commits/commit/604a77964767a20beb3a5bb354c7df792b38bc3a))
+* **app:** :bug: fixes class issue ([547c8a8](https://www.github.com/dukesx/Practice-commits/commit/547c8a8e1dab2c947e726d8cdb27129f4024de24))
+
 ## [1.4.0](https://www.github.com/dukesx/Practice-commits/compare/v1.3.0...v1.4.0) (2021-10-09)
 
 
