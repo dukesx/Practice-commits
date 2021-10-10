@@ -8,4 +8,4 @@ class Hello {
   }
 }
 
-var jss = new Hello("");
+var jss = new Hello("World Exclusive");
