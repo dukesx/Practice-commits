@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/dukesx/Practice-commits#readme",
   "devDependencies": {
-    "auto": "^10.32.1"
+    "auto": "^10.32.1",
+    "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
