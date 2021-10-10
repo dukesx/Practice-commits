@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/dukesx/Practice-commits/compare/v1.4.2...v2.0.0) (2021-10-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* asdsadsadsdsdsadsdsd
+* **ss:** This is break
+
+### Bug Fixes
+
+* adsdsdsdsadsd ([bdecf56](https://www.github.com/dukesx/Practice-commits/commit/bdecf569812fd5ea76167f4edb8ed31fcff9ca04))
+
+
+### Code Refactoring
+
+* **ss:** sadsdsdsd ([758aa00](https://www.github.com/dukesx/Practice-commits/commit/758aa008246b963889f9d111a5ada78631769980)), closes [#31](https://www.github.com/dukesx/Practice-commits/issues/31)
+
 ### [1.4.2](https://www.github.com/dukesx/Practice-commits/compare/v1.4.1...v1.4.2) (2021-10-10)
 
 
