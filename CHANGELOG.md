@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.4.2](https://www.github.com/dukesx/Practice-commits/compare/v1.4.1...v1.4.2) (2021-10-10)
+
+
+### Bug Fixes
+
+* **app:** :bug: Removed buggy code ([bf87c13](https://www.github.com/dukesx/Practice-commits/commit/bf87c130dacbbe64a19c8d5fcb7d9c71977b5e0a))
+
 ### [1.4.1](https://www.github.com/dukesx/Practice-commits/compare/v1.4.0...v1.4.1) (2021-10-10)
 
 
